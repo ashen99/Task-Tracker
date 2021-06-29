@@ -1,6 +1,6 @@
 # TASK-TRACKER 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 this application was done by following a react crash course. i will mention the link to that video below<br>
 
 ## Available Scripts
