@@ -52,6 +52,7 @@ function App() {
     <div className="container">
       <Header
         onAdd={() => setShowAddTask(!showAddTask)}
+        showAdd={showAddTask}
         tittle={"Task Tracker"}
       />
       {showAddTask && <AddTask onAdd={addTask} />}
